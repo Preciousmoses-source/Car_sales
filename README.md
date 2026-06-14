@@ -135,7 +135,7 @@ Data Analyst | Excel · Power BI · EDA
 ## 🛠️ Tools Used
 
 - **Microsoft Excel** – Data cleaning, pivot tables, and working sheet preparation
-- **Power BI** – Interactive dashboard (Car Dealers Performance Analysis)
+- **Microsoft EXCEL** – Interactive dashboard (Car Dealers Performance Analysis)
 - **Power Query** – Data transformation and income range classification
 - **DAX** – KPI measures and calculated columns
 
