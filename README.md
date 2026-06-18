@@ -1,13 +1,12 @@
-# 🚗 Car Dealers Performance Analysis – Exploratory Data Analysis (EDA)
+#  Car Dealers Performance Analysis – Exploratory Data Analysis (EDA)
 
-An end-to-end Exploratory Data Analysis of a car sales dataset spanning **January 2022 to December 2023**, examining dealer performance, regional revenue, customer income behaviour, product preferences, and sales trends across 30 car brands and 7 regions.
-
------
-
-## 👤 Author
+##  Author
 
 **Moses Precious**
 Data Analyst | Excel · Power BI · EDA
+
+#  Project Objective
+This Project is an end-to-end Exploratory Data Analysis of a car sales dataset spanning **January 2022 to December 2023**, examining dealer performance, regional revenue, customer income behaviour, product preferences, and sales trends across 30 car brands and 7 regions.
 
 -----
 
