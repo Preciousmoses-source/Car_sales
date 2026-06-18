@@ -10,7 +10,7 @@ This Project is an end-to-end Exploratory Data Analysis of a car sales dataset s
 
 -----
 
-## 📁 Dataset Overview
+##  Dataset Overview
 This project uses a dataset retrieved from Kaggle to analyze car sales trends across multiple regions and brands. The dataset has been imported into Microsoft Excel for exploration, visualization, and reporting.
 
 Dataset details 
@@ -117,7 +117,4 @@ The data contains 23,906 rows, 17 column, the data ranges from January 2022 - De
 1. Use slicers (Year, Dealer, Region) to interact with the dashboard
 
 -----
-
-## 📄 License
-
 This project is for portfolio and educational purposes on
